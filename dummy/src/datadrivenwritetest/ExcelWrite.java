@@ -13,7 +13,7 @@ public class ExcelWrite {
 
 	public static void main(String[] args) throws Exception {
 
-
+//writing the comments 
 
 		/*   FileOutputStream file = new FileOutputStream("E:\\bindu network\\Wspaces\\Workspace_Bindu\\dummy\\Excelcreated.xlsx");
 
@@ -32,7 +32,7 @@ public class ExcelWrite {
 
 		  */
 	String path="E:\\bindu network\\Wspaces\\Workspace_Bindu\\dummy\\LoginData.xlsx";
-	dsfsdfsdf;
+
 
 	   FileInputStream file = new FileInputStream(path);
 	  XSSFWorkbook workbook = new XSSFWorkbook(file);
